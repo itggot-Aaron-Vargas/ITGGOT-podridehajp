@@ -1,0 +1,31 @@
+#site {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;;
+    justify-content: center;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+header {
+    text-align: center;
+    background-color: #005353;
+    height: 70px;
+    margin-bottom: 20px;
+}
+nav {
+    background-color: #003153;
+    height: 150px;
+}
+ul {
+    list-style-type: none;
+}
+#mellansektion {
+    background-color: #003153;
+    height: 200px;
+}
+
+footer {
+    background-color: #003153;
+}
