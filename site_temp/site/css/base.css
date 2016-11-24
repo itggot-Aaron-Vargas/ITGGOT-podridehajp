@@ -1,3 +1,6 @@
+body {
+    background-color: #D3D3D3;
+}
 #site {
     background-color: #ffffff;
     display: flex;
@@ -20,6 +23,11 @@ nav {
 }
 ul {
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+ul li {
 }
 #mellansektion {
     background-color: #003153;
