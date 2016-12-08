@@ -5,7 +5,7 @@ body {
 #site {
     background-color: #ffffff;
     display: flex;
-    flex-direction: column;;
+    flex-direction: column;
     justify-content: center;
     margin-top: 2em;
     margin-left: 2em;
